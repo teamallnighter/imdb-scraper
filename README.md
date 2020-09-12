@@ -1,8 +1,14 @@
 # IMDB Scraper 
 
+## Versions
+* [1.0] 
+* [2.0](https://portfolio.chrisconnelly.dev/imdb-scraper-v2) 
+
 ## About 
 
 A simple IMDB Scraper from taking [Learn Web Scraping with Node.js - Crash Course](https://www.udemy.com/course/nodejs-web-scraping/)
+
+[My Portfolio Post](https://portfolio.chrisconnelly.dev/imdb-scraper-v2)
 
 ### Features 
 
@@ -18,13 +24,13 @@ A simple IMDB Scraper from taking [Learn Web Scraping with Node.js - Crash Cours
 ### Clone
 
 ```bash
-git clone
+git clone https://github.com/teamallnighter/imdb-scraper.git
 ```
 
 ### Install 
 
 ```bash
-npm install
+cd imdb-scraper && npm install
 ```
 
 ## Contributors 
