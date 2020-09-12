@@ -1,7 +1,7 @@
 # IMDB Scraper 
 
 ## Versions
-* [1.0] 
+* [1.0](https://portfolio.chrisconnelly.dev/imdb-scraper)
 * [2.0](https://portfolio.chrisconnelly.dev/imdb-scraper-v2) 
 
 ## About 
